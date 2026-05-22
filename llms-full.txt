@@ -1,0 +1,52 @@
+# Geotechnicalengineering — Ajax
+
+> Geotechnical engineering services in Ajax, Canada.
+
+## Services
+- [Anchors](https://ajax.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://ajax.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://ajax.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://ajax.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://ajax.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://ajax.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://ajax.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://ajax.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://ajax.geotechnicalengineering.co/footings/)
+- [Foundations](https://ajax.geotechnicalengineering.co/foundations/)
+- [Geophysics](https://ajax.geotechnicalengineering.co/geophysics/)
+- [Grain Size](https://ajax.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://ajax.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://ajax.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://ajax.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://ajax.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://ajax.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://ajax.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://ajax.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://ajax.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://ajax.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://ajax.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://ajax.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://ajax.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://ajax.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://ajax.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://ajax.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://ajax.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://ajax.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://ajax.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://ajax.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://ajax.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://ajax.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://ajax.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://ajax.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://ajax.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://ajax.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://ajax.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://ajax.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://ajax.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://ajax.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Ajax, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
